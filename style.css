@@ -1,0 +1,52 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fffdfc;
+  color: #333;
+}
+
+h1 span {
+  color: #d63384;
+}
+
+.project-box {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.project-box h4 {
+  color: #d63384;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 6px 12px;
+  background-color: #0d6efd;
+  color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #084298;
+}
+
+#contact {
+  background-color: #fef8f9;
+}
+
+.social-links .btn {
+  margin: 5px;
+}
+
+.resume-download .btn {
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+footer {
+  font-size: 14px;
+  border-top: 1px solid #ddd;
+}
